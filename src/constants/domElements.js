@@ -21,3 +21,11 @@ export const roti = document.createElement('div');
 export const rotiImage = document.createElement('img');
 export const rice = document.createElement('div');
 export const riceImage = document.createElement('img');
+
+export const papad = document.createElement('div');
+export const papadImage = document.createElement('img');
+export const fish = document.createElement('div');
+export const fishImage = document.createElement('img');
+
+export const dataPanel = document.createElement('div');
+export const dataPanelText = document.createElement('div');
