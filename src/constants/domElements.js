@@ -1,6 +1,5 @@
 export const body = document.body;
 export const header = document.createElement('div');
-header.id = "header"; //TODO: Remove from here
 export const content = document.createElement('div');
 export const footer = document.createElement('div');
 
@@ -22,8 +21,8 @@ export const rotiImage = document.createElement('img');
 export const rice = document.createElement('div');
 export const riceImage = document.createElement('img');
 
-export const papad = document.createElement('div');
-export const papadImage = document.createElement('img');
+export const pickle = document.createElement('div');
+export const pickleImage = document.createElement('img');
 export const fish = document.createElement('div');
 export const fishImage = document.createElement('img');
 
